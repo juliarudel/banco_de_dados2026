@@ -1,0 +1,22 @@
+insert into quarto (andar, quarto, tipo) values 
+('1º andar','11','individual'),
+('1º andar','12','casal'),
+('1º andar','13','familia + cama solteiro'),
+('2º andar','21','familia + 2 camas solteiro'),
+('2º andar','22','familia + 2 camas solteiro'),
+('2º andar','23','mega familia'),
+('2º andar','24','suite presidencial'),
+('3º andar','31','familia + cama solteiro'),
+('3º andar','32','familia + cama solteiro'),
+('3º andar','33','mega familia'),
+('2º andar','4','suite presidencial');
+
+insert into servico (servico, tipo, valor) values 
+('coca coola lata','bebida',5.00),
+('coca cola 2l','bebida', 20.00),
+('coca cola 600','bebida', 8.00),
+('cerveja lata','skol',10.00),
+('cerveja lata','brahma',7.00),
+('pao de queijo','comida',8.00),
+('jantar','comida',21.00),
+('cafe da manha','comida',15.00),
